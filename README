@@ -1,0 +1,31 @@
+	Project 5world
+
+This is the README for the subproject "5wDevice", part of 5world.
+
+WHAT IS 5-World?
+
+  5-World is a project to gather resources about Pantech devices
+  and organize the informations and resources and distribute them
+  to the public.
+
+WHAT IS 5wDEVICE?
+
+  This is an archive that contains the informations for Pantech
+  devices.
+
+HOW TO CONTRIBUTE?
+
+  It is very easy to contribute to 5wDevice.
+
+   1. git clone git://github.com/ahisky/5wDevice
+
+   2. Navigate to the device folder you want to edit
+
+   3. Commit the changes and send a PR on the Github Repository
+       ^ Please mark the license!
+
+   *  Add your name to the file CONTRIBUTORS
+       ^ Please refer to Line 1 where there's an example
+
+EOF
+

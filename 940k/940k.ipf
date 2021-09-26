@@ -1,0 +1,3 @@
+export IPF_ROMS=2
+export IPF_NAME="IM-A940K"
+export IPF_CODENAME=EF65D
